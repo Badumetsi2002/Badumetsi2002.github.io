@@ -44,5 +44,6 @@ column {
 		}
 		.row{ 
 		border-radius:20px;
-		padding:5px;
+		padding:5px; 
+Display:flex;
 		}
