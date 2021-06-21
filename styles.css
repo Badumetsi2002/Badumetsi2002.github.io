@@ -32,3 +32,17 @@ background-origin:border-box;
 background-clip:content-box,border-box;
 		}
 		
+column {
+		border-radius:18px;
+		margin-top:17px;
+		position:relative;
+		over-flow:hidden;
+		flex:33%;
+		}
+		.list {
+	color:black;
+		}
+		.row{ 
+		border-radius:20px;
+		display:flex;
+		}
